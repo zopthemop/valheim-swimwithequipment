@@ -13,6 +13,7 @@ public class Plugin : BaseUnityPlugin
 	public const string ModGUID = "zopthemop.swimwithequipment";
 	public const string ModName = "Swim With Equipment";
 	public const string ModVersion = "1.0.0";
+	public const string ModDescription = "Swim with equipment (e.g. pickaxe, hoe, etc)";
 
     private void Awake()
     {
